@@ -1,0 +1,616 @@
+{
+    "code": 0,
+    "subcode": 0,
+    "message": "",
+    "default": 0,
+    "data": {
+        "uin": 351732544,
+        "categoryId": 10000000,
+        "sortId": 5,
+        "sum": 5356,
+        "sin": 0,
+        "ein": 29,
+        "list": [
+            {
+                "dissid": "3276901486",
+                "createtime": "2017-08-31",
+                "commit_time": "2017-08-31",
+                "dissname": "鬼片克星！半夜看片壮胆必备BGM",
+                "imgurl": "http://p.qpic.cn/music_cover/OSAR0v6fibBw0icAxIk2EX0AS63SnkINuraVlJUyl7krnnqgUYkRaLaQ/600?n=1",
+                "introduction": "",
+                "listennum": 6840374,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 3012233478,
+                    "encrypt_uin": "oin5ow-ioivlNn**",
+                    "name": "Mandy from SANLITUNER",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2375828589",
+                "createtime": "2017-07-30",
+                "commit_time": "2017-07-30",
+                "dissname": "霸占韩剧半壁江山的OST女王们",
+                "imgurl": "http://p.qpic.cn/music_cover/GaI8IjcJb0bfx3UkIvx6mqwYecibr7954r7pOcltCyria4USkJrtCWhQ/600?n=1",
+                "introduction": "",
+                "listennum": 10034182,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 3327800965,
+                    "encrypt_uin": "oioA7iczoeEs7v**",
+                    "name": "萌萌的夜店女王",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2273669640",
+                "createtime": "2016-11-04",
+                "commit_time": "2016-11-04",
+                "dissname": "小米粥式民谣：午休时段的清凉调",
+                "imgurl": "http://p.qpic.cn/music_cover/jXFicBvicUcfIWSoCNT1OrbG0zOEPsgkBbGnmjGq5IblFT8Jm63kjqxA/600?n=1",
+                "introduction": "",
+                "listennum": 8937279,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 1067338325,
+                    "encrypt_uin": "oKns7ioiNeoA7v**",
+                    "name": "念葳蕊",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2055984773",
+                "createtime": "2017-10-31",
+                "commit_time": "2017-10-31",
+                "dissname": "古韵妙音300首：让心穿越到古风世界",
+                "imgurl": "http://p.qpic.cn/music_cover/G8MzQ9Uiahag9FRxThCHF4QUaBqvVN3wbB35yFVN7fxxicknSeE9jB0w/600?n=1",
+                "introduction": "",
+                "listennum": 19992291,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 695636314,
+                    "encrypt_uin": "7wEk7wosoi6P",
+                    "name": "随心",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2388162541",
+                "createtime": "2017-11-07",
+                "commit_time": "2017-11-07",
+                "dissname": "码农必备，修bug需纯音相配",
+                "imgurl": "http://p.qpic.cn/music_cover/0Fvp5LwdLLDtCTPt1WSVed4zEB6rEcMzKdg9UmTrVbbm3VSF9uiaSwA/600?n=1",
+                "introduction": "",
+                "listennum": 73575,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 2753358585,
+                    "encrypt_uin": "owSkoiokNe4F7v**",
+                    "name": "像疯一样自由",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3616253853",
+                "createtime": "2017-12-26",
+                "commit_time": "2017-12-26",
+                "dissname": "日系鸡汤: 出门游行喝一碗，这个冬天不太冷",
+                "imgurl": "http://p.qpic.cn/music_cover/OEtP0gcPDXJa1QXC0SvgS3KeQZOD5nFeJd98W1wsnicOy4iaH4B9s0XQ/600?n=1",
+                "introduction": "",
+                "listennum": 38707,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 2678926715,
+                    "encrypt_uin": "owClNeEA7wS57v**",
+                    "name": "艺术就是爆炸",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3605333099",
+                "createtime": "2017-12-18",
+                "commit_time": "2017-12-18",
+                "dissname": "主播福利！电台里暖茶般的舒缓BGM",
+                "imgurl": "http://p.qpic.cn/music_cover/X9lmt3gQ1KkaezXF13jX38sowvHOwxwQbLSXtA2NQppEvicP7HWFFJQ/600?n=1",
+                "introduction": "",
+                "listennum": 32054,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 1079096147,
+                    "encrypt_uin": "oKnlNKnq7w6P7z**",
+                    "name": "蘑菇🍄",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2986516429",
+                "createtime": "2017-12-18",
+                "commit_time": "2017-12-18",
+                "dissname": "【韩铃系列】高回头率｜前奏沦陷",
+                "imgurl": "http://p.qpic.cn/music_cover/yaia4XHb3AGPLHhav50fjllsd43F9he4mhYD4dVPp937734qxQfllAQ/600?n=1",
+                "introduction": "",
+                "listennum": 187334,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 3272692537,
+                    "encrypt_uin": "oi-lowCqow4i7z**",
+                    "name": "i need 錢.",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2982815584",
+                "createtime": "2017-10-19",
+                "commit_time": "2017-10-19",
+                "dissname": "蛋堡国蛋和顽童/饶舌何处不相逢",
+                "imgurl": "http://p.qpic.cn/music_cover/fFgUJknhibCxxjHWmAtVzSWoLqS34xg0QJnF0B5wq6PWWLUrljQfCQw/600?n=1",
+                "introduction": "",
+                "listennum": 963431,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 40277057,
+                    "encrypt_uin": "7enA7iSz7KS*",
+                    "name": "万利达张震岳",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3614659662",
+                "createtime": "2017-12-27",
+                "commit_time": "2017-12-27",
+                "dissname": "自从学会小提琴，追我的人排长队",
+                "imgurl": "http://p.qpic.cn/music_cover/MhQ4bJBPt3Yt5icXyBGNhyHicia4ZVAqggk2w9JDFsIhOESuCMlicPRQdQ/600?n=1",
+                "introduction": "",
+                "listennum": 19702,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 452775188,
+                    "encrypt_uin": "7e4A7iSkoKcF",
+                    "name": "还不是因为你长得不好看",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3616364405",
+                "createtime": "2017-12-27",
+                "commit_time": "2017-12-27",
+                "dissname": "2017年度轻音乐收藏 Top 100",
+                "imgurl": "http://p.qpic.cn/music_cover/gaSSCRswoq7NlpHA8vK1PuQiawcwkuzqSkadeFuibg3Plib6kDb1Caibpg/600?n=1",
+                "introduction": "",
+                "listennum": 2267615,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 3239619075,
+                    "encrypt_uin": "oi-iNKC5NKnl7v**",
+                    "name": "歌单狂魔",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3600883943",
+                "createtime": "2017-12-28",
+                "commit_time": "2017-12-28",
+                "dissname": "还没有对象？50位唱将型男友任你挑",
+                "imgurl": "http://p.qpic.cn/music_cover/8HhavvWNIicpyjlv0UnT5TfMaSdbLR6AHYUUK9TIEo75vibV3tqChqJQ/600?n=1",
+                "introduction": "",
+                "listennum": 600936,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 478695379,
+                    "encrypt_uin": "7eSF7wEkoiSq",
+                    "name": "　    治愈系-九九",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3288424922",
+                "createtime": "2017-12-01",
+                "commit_time": "2017-12-01",
+                "dissname": "沙滩音乐！马尔代夫五星级酒店宣传专用",
+                "imgurl": "http://p.qpic.cn/music_cover/7nibdU75Y368rHg3ciaicZ08TaHkdxXECqJllqQj3ibOmoCEV9jibk00BbA/600?n=1",
+                "introduction": "",
+                "listennum": 233235,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 2602353068,
+                    "encrypt_uin": "owCzowokoinsNn**",
+                    "name": "浩克",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3613617652",
+                "createtime": "2017-12-28",
+                "commit_time": "2017-12-28",
+                "dissname": "国风戏韵：淡淡胭脂遮住了思绪",
+                "imgurl": "http://p.qpic.cn/music_cover/vmfc74bEMcj5Ol9qJlS9Afwicj9BqBPthUtnOM9Te1qQ4tiaRxRBt8lw/600?n=1",
+                "introduction": "",
+                "listennum": 227454,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 2,
+                    "qq": 1182030515,
+                    "encrypt_uin": "oK6Fownioe457v**",
+                    "name": "Shake",
+                    "isVip": 2,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3613233230",
+                "createtime": "2017-12-26",
+                "commit_time": "2017-12-26",
+                "dissname": "棒极了！嘻哈彻底治好了我的口吃",
+                "imgurl": "http://p.qpic.cn/music_cover/MhQ4bJBPt3Yt5icXyBGNhyHicia4ZVAqggkrq8f1uHX0yesy9II21h5UA/600?n=1",
+                "introduction": "",
+                "listennum": 121607,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 452775188,
+                    "encrypt_uin": "7e4A7iSkoKcF",
+                    "name": "还不是因为你长得不好看",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "1773567390",
+                "createtime": "2017-08-02",
+                "commit_time": "2017-08-02",
+                "dissname": "适合美术生画图时听的150首新世纪人声",
+                "imgurl": "http://p.qpic.cn/music_cover/2g8aJznERGdXrFRjaqmCHB0KkkcZrwVk7PQibgkWI0FAKZN7OGXdSKw/600?n=1",
+                "introduction": "",
+                "listennum": 2435029,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 2669206093,
+                    "encrypt_uin": "owCsNK-z7wnqoz**",
+                    "name": "Vitamin",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "1755180915",
+                "createtime": "2017-12-28",
+                "commit_time": "2017-12-28",
+                "dissname": "俏皮国风电音：我欲修仙 法力无边",
+                "imgurl": "http://p.qpic.cn/music_cover/qH8rLHHhL8O8Iibm56uPzJ7lKpklZ4GvSibw4SRuyPWLyIrKDANibdHAQ/600?n=1",
+                "introduction": "",
+                "listennum": 1092809,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 1812948313,
+                    "encrypt_uin": "oKc5owEPNeo5oz**",
+                    "name": "           私に闻いて风i",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3616302180",
+                "createtime": "2017-12-26",
+                "commit_time": "2017-12-26",
+                "dissname": "猫咪散步时的自备乐：香港后摇",
+                "imgurl": "http://p.qpic.cn/music_cover/8NYC8efIo52OTDC9przZYBglquaTPjRjBicYVbOoanOfibqp1KcuicdHw/600?n=1",
+                "introduction": "",
+                "listennum": 50678,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 3248641960,
+                    "encrypt_uin": "oi-PNeCPoKEson**",
+                    "name": "MouYong LynLyn",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3604760282",
+                "createtime": "2017-12-20",
+                "commit_time": "2017-12-20",
+                "dissname": "成功约到学姐！我要带她去兜风咯",
+                "imgurl": "http://p.qpic.cn/music_cover/MhQ4bJBPt3Yt5icXyBGNhyD2sSvbrzvjnfpzRIJcN0GfztWT6WlkbqA/600?n=1",
+                "introduction": "",
+                "listennum": 322082,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 452775188,
+                    "encrypt_uin": "7e4A7iSkoKcF",
+                    "name": "还不是因为你长得不好看",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "2954096247",
+                "createtime": "2017-12-14",
+                "commit_time": "2017-12-14",
+                "dissname": "『精选女声EDM』让人无法抗拒的旋律",
+                "imgurl": "http://p.qpic.cn/music_cover/mDicLicuRNzXUjp45IrpoP96F4ErOINBIptOsIyHqicUH5XU5umlOvFeQ/600?n=1",
+                "introduction": "",
+                "listennum": 244061,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 282979167,
+                    "encrypt_uin": "owcANKSqoKCl",
+                    "name": "Android",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "1162064205",
+                "createtime": "2017-07-15",
+                "commit_time": "2017-07-15",
+                "dissname": "情书告白：我喜欢你是藏在抽屉里的秘密",
+                "imgurl": "http://p.qpic.cn/music_cover/lricrZ3ca62ybvZbWYjtYaicwxEBpDqdd9KPTjcZmkVWU46TvNWnMquA/600?n=1",
+                "introduction": "",
+                "listennum": 152693,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 1967728311,
+                    "encrypt_uin": "oKEs7iSANeo5ov**",
+                    "name": "Mikoto",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "1492757198",
+                "createtime": "2017-12-13",
+                "commit_time": "2017-12-13",
+                "dissname": "50首有花的歌名：想你是在下雨天",
+                "imgurl": "http://p.qpic.cn/music_cover/ibntviciboJuwCoCNK8ibZkjerJONTHNQ4EOicGDg8qbickRjS5Y8Mdcyb1g/600?n=1",
+                "introduction": "",
+                "listennum": 85551,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 3024244602,
+                    "encrypt_uin": "oinA7e-P7eCzoc**",
+                    "name": "Allen",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3278224070",
+                "createtime": "2017-09-11",
+                "commit_time": "2017-09-11",
+                "dissname": "冰镇软萌音｜不能自已的Kawaii电音",
+                "imgurl": "http://p.qpic.cn/music_cover/3G9zgTVAfaFXNyW4KnDxXVQ0WkJKRBpEM8xQtqO2AmA6iaM8oMh6dhA/600?n=1",
+                "introduction": "",
+                "listennum": 1026127,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 437376068,
+                    "encrypt_uin": "7eoloiSsoeCF",
+                    "name": "TOEFL不上100不改名",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "1766959723",
+                "createtime": "2017-11-07",
+                "commit_time": "2017-11-07",
+                "dissname": "咖啡店邂逅：我爱这个坐在我对面的女孩",
+                "imgurl": "http://p.qpic.cn/music_cover/PiajxSqBRaELMiaFiadPqlaJxVbFMiaickbRw39ricPasMQAU0IHeE9DZRXw/600?n=1",
+                "introduction": "",
+                "listennum": 34540,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 5225213,
+                    "encrypt_uin": "7K-A7K-5oz**",
+                    "name": "bad boy",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3272669550",
+                "createtime": "2017-08-01",
+                "commit_time": "2017-08-01",
+                "dissname": "古风纯音 | 江山如画  一时多少豪杰",
+                "imgurl": "http://p.qpic.cn/music_cover/CJ35Z2cnZA0kWwtIMrxsbsX0n7uWaQZvCcgaSYbm6YUzFJLnYdYT8A/600?n=1",
+                "introduction": "",
+                "listennum": 254291,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 86010258,
+                    "encrypt_uin": "NeCzoKnA7Kc*",
+                    "name": "霜泧",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "1789522903",
+                "createtime": "2017-12-05",
+                "commit_time": "2017-12-05",
+                "dissname": "民族乐器 | 清心雅赏中华传统音乐文化",
+                "imgurl": "http://p.qpic.cn/music_cover/8KfvDey9cibtZ5xkWxRic6vhXgdPic3wnB7RticrSIJH53VPEicHERWSYibQ/600?n=1",
+                "introduction": "",
+                "listennum": 71876,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 2,
+                    "qq": 1367363703,
+                    "encrypt_uin": "oKos7iosoiSzoz**",
+                    "name": "秋水浮萍任飘渺",
+                    "isVip": 2,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3621327477",
+                "createtime": "2017-12-29",
+                "commit_time": "2017-12-29",
+                "dissname": "玛丽苏乙女向《恋与制作人》BGM",
+                "imgurl": "http://p.qpic.cn/music_cover/UdEFGcpUxCS32Gkib6dX8eGeVMXNgPgchtOcSqc8q1r5Ta76xjpoklw/600?n=1",
+                "introduction": "",
+                "listennum": 72965,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 2117222820,
+                    "encrypt_uin": "ow657i-AowcAon**",
+                    "name": "当然是选择原谅她啊",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "893079087",
+                "createtime": "2017-11-23",
+                "commit_time": "2017-11-23",
+                "dissname": "TFBOYS 唱过的电视剧&广告主题曲",
+                "imgurl": "http://p.qpic.cn/music_cover/2Y3WKQAztZTdYHa8tvOVibZtFfyjU991M8T2BcOLtXnkTYia194kRkicQ/600?n=1",
+                "introduction": "",
+                "listennum": 101456,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 2043655150,
+                    "encrypt_uin": "ownPoiCk7K6kon**",
+                    "name": "笑望.",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3616090664",
+                "createtime": "2017-12-29",
+                "commit_time": "2017-12-29",
+                "dissname": "“磨”性纯电丨拖延症患者必备工作动力",
+                "imgurl": "http://p.qpic.cn/music_cover/hBibLwnyBfQncfrhVAHPPayCpdvDRyd8vk7hpNrMLgZF6jKsM0SiamWQ/600?n=1",
+                "introduction": "",
+                "listennum": 163209,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 2,
+                    "qq": 1900614021,
+                    "encrypt_uin": "oKEzoeC57enAov**",
+                    "name": "LoVe",
+                    "isVip": 2,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            },
+            {
+                "dissid": "3618309214",
+                "createtime": "2017-12-28",
+                "commit_time": "2017-12-28",
+                "dissname": "伤感片段：痛饮这烈酒，从此一人走",
+                "imgurl": "http://p.qpic.cn/music_cover/MhQ4bJBPt3Yt5icXyBGNhyHicia4ZVAqggkRdh5jEdN1wwKzxfGicSV2cA/600?n=1",
+                "introduction": "",
+                "listennum": 313954,
+                "score": 0.0,
+                "version": 0,
+                "creator": {
+                    "type": 0,
+                    "qq": 452775188,
+                    "encrypt_uin": "7e4A7iSkoKcF",
+                    "name": "还不是因为你长得不好看",
+                    "isVip": 0,
+                    "avatarUrl": "",
+                    "followflag": 0
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+export const SET_SINGER = 'SET_SINGER'
+
+export const SET_PlAYING_STATE = 'SET_PlAYING_STATE'
+
+export const SET_FULL_SCREEN = 'SET_FULL_SCREEN'
+
+export const SET_PLAYLIST = 'SET_PLAYLIST'
+
+export const SET_SEQUENCE_LIST = 'SET_SEQUENCE_LIST'
+
+export const SET_MODE = 'SET_MODE'
+
+export const SET_CURRENT_INDEX = 'SET_CURRENT_INDEX'
+
+export const SET_CURRENT_SONG = 'SET_CURRENT_SONG'
+
+export const SET_DESC = 'SET_DESC'
+
+export const SET_TOP_LIST = 'SET_TOP_LIST'
+
+export const SET_SEARCH_HISTORY = 'SET_SEARCH_HISTORY'
